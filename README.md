@@ -1,16 +1,41 @@
-### Hi there 👋
+## Bem vindo, meu nome é Igor dos Santos Rosa! 🤙🏾
+### Sobre:
+Tenho 23 anos, sou estudande do curso superior de Análise e Desenvolvimento de Sistemas na Faculdade Senai de Tecnologia Mecatrônica "Armando de Arruda Pereira", estou aprendendo ferramentas e habilidade novas e aprimorando ainda mais as que já possuo conhecimento.
 
-<!--
-**igordossrosa/igordossrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Rede social para contato:
+<div>
+  <a href="https://www.linkedin.com/in/igordsrosa/" target="_blank">
+    <img height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <br>
+  <a href="mailto:igordsrosaa@outlook.com" target="_blank">
+    <img height="30px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Linguagens que possuo conhecimento:
+<div style="display: inline_block">
+  <img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ferramentas que estou aprendendo:
+<div>
+  <img height="30px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img height="30px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+### Projetos:
+<div>
+  Área em desenvolvimento, aguarde...
+</div>
+
+### Contato:
+<div>
+Email: igordsrosaa@outlook.com<br>
+Telefone: (11)968326487
+</div>
+
+          
