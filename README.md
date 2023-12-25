@@ -20,7 +20,7 @@ Tenho 23 anos, sou estudande do curso superior de Análise e Desenvolvimento de 
   <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-### Ferramentas que estou aprendendo:
+### Ferramentas e linguagens que estou aprendendo:
 <div>
   <img height="30px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img height="30px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
