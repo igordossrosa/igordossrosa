@@ -1,6 +1,6 @@
 ## Bem vindo, meu nome é Igor dos Santos Rosa! 🤙🏾
 ### Sobre:
-Tenho 23 anos, sou estudande do curso superior de Análise e Desenvolvimento de Sistemas na Faculdade Senai de Tecnologia Mecatrônica "Armando de Arruda Pereira", estou aprendendo ferramentas e habilidade novas e aprimorando ainda mais as que já possuo conhecimento.
+Tenho 23 anos, sou estudante do curso superior de Análise e Desenvolvimento de Sistemas na Faculdade Senai de Tecnologia Mecatrônica "Armando de Arruda Pereira", estou aprendendo ferramentas e habilidade novas e aprimorando ainda mais as que já possuo conhecimento.
 
 ### Rede social para contato:
 <div>
