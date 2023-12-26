@@ -36,6 +36,11 @@ Tenho 23 anos, sou estudande do curso superior de Análise e Desenvolvimento de 
   <a href="https://github.com/igordossrosa/portfolio-simples" target="_blank">Acesse o repositório</a>
 </div>
 
+### Estatísticas:
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=igordossrosa&show_icons=true&theme=transparent">
+</div>
+
 ### Contato:
 <div>
 Email: igordsrosaa@outlook.com<br>
