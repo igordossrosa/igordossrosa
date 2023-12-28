@@ -29,7 +29,11 @@ Tenho 23 anos, sou estudante do curso superior de Análise e Desenvolvimento de 
   <img height="30px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
-### Projetos:
+### Principais Projetos:
+
+-
+
+### Todos os projetos:
 <div>
   1º Projeto - 26/12/2023 (Portfolio simples para treinamento de HTML e CSS) / 
   <a href="https://igordossrosa.github.io/portfolio-simples/" target="_blank">Acesse o site</a> /
