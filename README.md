@@ -35,7 +35,7 @@ Tenho 23 anos, sou estudante do curso superior de Análise e Desenvolvimento de 
 
 ### Todos os projetos:
 <div>
-  1º Projeto - Portfolio Simples (Portfolio simples para treinamento de HTML e CSS, usando técnicas básicas) / 
+  Portfolio (Portfolio simples para treinamento de HTML e CSS, usando técnicas básicas) / 
   <a href="https://igordossrosa.github.io/portfolio-simples/" target="_blank">Acesse o site</a> /
   <a href="https://github.com/igordossrosa/portfolio-simples" target="_blank">Acesse o repositório</a>
 </div>
