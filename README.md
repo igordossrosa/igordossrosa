@@ -33,11 +33,16 @@ Tenho 24 anos, sou estudante do curso superior de Análise e Desenvolvimento de 
 
 -
 
-### Todos os projetos:
+### Projetos Básicos para Aprendizado e Estudo:
 <div>
   Portfolio (Portfolio simples para treinamento de HTML e CSS, usando técnicas básicas) / 
   <a href="https://igordossrosa.github.io/portfolio-simples/" target="_blank">Acesse o site</a> /
   <a href="https://github.com/igordossrosa/portfolio-simples" target="_blank">Acesse o repositório</a>
+</div>
+<div>
+  Wave Cast (Projeto para estudo e aprendizado de Grid e Flexbox, da plataforma Alura) / 
+  <a href="https://igordossrosa.github.io/wave-cast/" target="_blank">Acesse o site</a> /
+  <a href="https://github.com/igordossrosa/wave-cast" target="_blank">Acesse o repositório</a>
 </div>
 
 ### Estatísticas:
